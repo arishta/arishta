@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arishta/)
 [![GitHub followers](https://img.shields.io/github/followers/arishta?label=Followers&style=for-the-badge)](https://github.com/arishta)
 
-I'm a passionate Software Developer with a focus on distributed databases and open source technologies. Currently building scalable solutions at YugabyteDB.
+I'm a passionate Software Developer with a focus on distributed databases and open source. Currently building scalable solutions at YugabyteDB.
 
 
 ## GitHub Stats
