@@ -1,16 +1,45 @@
-# Hey there 👋
+![Wave](profile-wave.svg)
+
+# Hey there, I'm Arishta 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arishta/)
 [![GitHub followers](https://img.shields.io/github/followers/arishta?label=Followers&style=for-the-badge)](https://github.com/arishta)
 
-I'm a passionate Software Developer with a focus on distributed databases and open source technologies. Currently, I'm contributing to and building scalable solutions at YugabyteDB.
+I'm a passionate Software Developer with a focus on distributed databases and open source technologies. Currently building scalable solutions at YugabyteDB.
 
-## What I'm up to
+```json
+{
+  "type": "technical_skills",
+  "categories": [
+    {
+      "name": "Languages",
+      "items": ["Java", "Python", "C++", "JavaScript", "TypeScript", "Go"]
+    },
+    {
+      "name": "Frameworks",
+      "items": ["React", "Node.js"]
+    },
+    {
+      "name": "Databases",
+      "items": ["YugabyteDB", "PostgreSQL", "MongoDB", "SQL"]
+    },
+    {
+      "name": "Cloud & DevOps",
+      "items": ["AWS", "Docker"]
+    },
+    {
+      "name": "Core",
+      "items": ["Data Structures", "Algorithms", "Distributed Systems"]
+    }
+  ]
+}
+```
 
-- 💼 Working as a Software Developer at YugabyteDB
-- 🌟 Contributing to open source projects
-- 🚀 Building distributed systems and cloud-native applications
-- 💡 Learning and exploring new technologies in the database space
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=arishta&show_icons=true&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arishta&layout=compact&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arishta&theme=dark)](https://git.io/streak-stats)
 
 ### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,11 +69,6 @@ I'm a passionate Software Developer with a focus on distributed databases and op
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/arishta/)
 - 📫 Reach out to me at: arishta.dev@gmail.com
 
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!-- This section can be automated using GitHub Actions -->
-<!--END_SECTION:activity-->
 
 ## GitHub Stats
 
