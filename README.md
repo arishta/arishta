@@ -5,13 +5,6 @@
   </svg>
 </div>
 
-# Hey there, I'm Arishta 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arishta/)
-[![GitHub followers](https://img.shields.io/github/followers/arishta?label=Followers&style=for-the-badge)](https://github.com/arishta)
-
-I'm a passionate Software Developer with a focus on distributed databases and open source. Currently building scalable solutions at YugabyteDB.
-
 
 ## GitHub Stats
 
@@ -36,10 +29,3 @@ I'm a passionate Software Developer with a focus on distributed databases and op
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![YugabyteDB](https://img.shields.io/badge/YugabyteDB-FF6B6B?style=for-the-badge&logoColor=white)
-
-
-## Get in Touch
-
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/arishta/)
-- 📫 Reach out to me at: arishta.dev@gmail.com
